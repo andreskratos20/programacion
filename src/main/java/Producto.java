@@ -94,3 +94,4 @@ import java.awt.event.*;
         SwingUtilities.invokeLater(() -> new GestionTienda().setVisible(true));
     }
 }
+// codigo terminado
